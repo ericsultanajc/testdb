@@ -1,18 +1,11 @@
 {
-	"filieres" : [ {
-		"id" : 1,
-		"intitule" : "SOPRA / JAVA / ANGULAR",
-		"promotion" : "11 bytes / 1 String",
-		"dtDebut" : "2019-03-23",
-		"duree" : 57,
-		"dispositif" : "POEI"
-	}, {
-		"id" : 2,
-		"intitule" : "SOPRA / ANGULAR",
-		"promotion" : "La ménagerie",
-		"dtDebut" : "2019-05-19"),
-		"duree" : 57,
-		"dispositif" : "POEI"
-	} ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
